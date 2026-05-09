@@ -6,7 +6,7 @@
         "@id": "model-output"
     },
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/product/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/product/",
         "@base": "https://no-prefix.mipcvs.dev/product/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/Product/",
         "product": {
@@ -17,7 +17,8 @@
     "@type": [
         "wcrp:product",
         "esgvoc:Product",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "product"
 }

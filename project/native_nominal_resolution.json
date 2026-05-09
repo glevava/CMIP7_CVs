@@ -20,7 +20,7 @@
         "5000km"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/native_nominal_resolution/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/native_nominal_resolution/",
         "@base": "https://no-prefix.mipcvs.dev/native_nominal_resolution/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/NativeNominalResolution/",
         "native_nominal_resolution": {
@@ -31,7 +31,8 @@
     "@type": [
         "wcrp:native_nominal_resolution",
         "esgvoc:NativeNominalResolution",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "native_nominal_resolution"
 }

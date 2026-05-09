@@ -92,7 +92,7 @@
         "u"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/branding_prefix/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/branding_prefix/",
         "@base": "https://no-prefix.mipcvs.dev/branding_prefix/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/BrandingPrefix/",
         "area_label": {
@@ -115,7 +115,8 @@
     "@type": [
         "wcrp:branding_prefix",
         "esgvoc:BrandingPrefix",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "branding_prefix"
 }

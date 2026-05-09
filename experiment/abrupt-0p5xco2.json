@@ -28,7 +28,8 @@
     "@type": [
         "wcrp:experiment",
         "esgvoc:Experiment",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "abrupt-0p5xco2"
 }

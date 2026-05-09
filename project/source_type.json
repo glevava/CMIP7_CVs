@@ -19,7 +19,7 @@
         "satellite_retrieval"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/source_type/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/source_type/",
         "@base": "https://no-prefix.mipcvs.dev/source_type/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/SourceType/",
         "source_type": {
@@ -30,7 +30,8 @@
     "@type": [
         "wcrp:source_type",
         "esgvoc:SourceType",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "source_type"
 }

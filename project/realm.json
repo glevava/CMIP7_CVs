@@ -13,7 +13,7 @@
         "seaice"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/realm/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/realm/",
         "@base": "https://no-prefix.mipcvs.dev/realm/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/Realm/",
         "realm": {
@@ -24,7 +24,8 @@
     "@type": [
         "wcrp:realm",
         "esgvoc:Realm",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "realm"
 }

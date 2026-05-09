@@ -6,14 +6,15 @@
         ""
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/tracking_id/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/tracking_id/",
         "@base": "https://no-prefix.mipcvs.dev/tracking_id/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/TrackingId/"
     },
     "@type": [
         "wcrp:tracking_id",
         "esgvoc:TrackingId",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "tracking_id"
 }

@@ -19,7 +19,8 @@
     "@type": [
         "wcrp:source",
         "esgvoc:Source",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "test-2-0"
 }

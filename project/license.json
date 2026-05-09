@@ -9,7 +9,7 @@
         }
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/license/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/license/",
         "@base": "https://no-prefix.mipcvs.dev/license/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/License/",
         "license": {
@@ -20,7 +20,8 @@
     "@type": [
         "wcrp:license",
         "esgvoc:License",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "license"
 }

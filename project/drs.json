@@ -13,14 +13,15 @@
         "filename_template": "<variable_id><branding_suffix><frequency><region><grid_label><source_id><experiment_id><variant_label>"
     },
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/drs/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/drs/",
         "@base": "https://no-prefix.mipcvs.dev/drs/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/Drs/"
     },
     "@type": [
         "wcrp:drs",
         "esgvoc:Drs",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "drs"
 }

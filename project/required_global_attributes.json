@@ -34,14 +34,15 @@
         "vertical_label"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/required_global_attributes/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/required_global_attributes/",
         "@base": "https://no-prefix.mipcvs.dev/required_global_attributes/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/RequiredGlobalAttributes/"
     },
     "@type": [
         "wcrp:required_global_attributes",
         "esgvoc:RequiredGlobalAttributes",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "required_global_attributes"
 }

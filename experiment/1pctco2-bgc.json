@@ -26,7 +26,8 @@
     "@type": [
         "wcrp:experiment",
         "esgvoc:Experiment",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "1pctco2-bgc"
 }

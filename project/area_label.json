@@ -8,7 +8,7 @@
         "u"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/area_label/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/area_label/",
         "@base": "https://no-prefix.mipcvs.dev/area_label/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/AreaLabel/",
         "area_label": {
@@ -19,7 +19,8 @@
     "@type": [
         "wcrp:area_label",
         "esgvoc:AreaLabel",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "area_label"
 }

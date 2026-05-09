@@ -1,8 +1,8 @@
 {
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/source/",
-        "@base": "https://cmip7.mipcvs.dev/source/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/source/",
+        "@base": "https://https://github.com/glevava/CMIP7_CVs/.mipcvs.dev/source/",
         "@esgvoc": "Source",
-        "@vocab": "https://cmip7.mipcvs.dev/docs/contents/Source/"
+        "@vocab": "https://https://github.com/glevava/CMIP7_CVs/.mipcvs.dev/docs/contents/Source/"
     }
 }

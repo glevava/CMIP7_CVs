@@ -6,7 +6,7 @@
         "@id": "cmip7"
     },
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/mip_era/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/mip_era/",
         "@base": "https://no-prefix.mipcvs.dev/mip_era/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/MipEra/",
         "mip_era": {
@@ -17,7 +17,8 @@
     "@type": [
         "wcrp:mip_era",
         "esgvoc:MipEra",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "mip_era"
 }

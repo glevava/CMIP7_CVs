@@ -4,7 +4,7 @@
     "description": "CMIP7 Permitted Grid Labels",
     "grid_label": [],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/grid_label/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/grid_label/",
         "@base": "https://no-prefix.mipcvs.dev/grid_label/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/GridLabel/",
         "grid_label": {
@@ -15,7 +15,8 @@
     "@type": [
         "wcrp:grid_label",
         "esgvoc:GridLabel",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "grid_label"
 }

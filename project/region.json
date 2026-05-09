@@ -10,7 +10,7 @@
         "shem"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/region/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/region/",
         "@base": "https://no-prefix.mipcvs.dev/region/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/Region/",
         "region": {
@@ -21,7 +21,8 @@
     "@type": [
         "wcrp:region",
         "esgvoc:Region",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "region"
 }

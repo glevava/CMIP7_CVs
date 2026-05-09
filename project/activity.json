@@ -17,7 +17,7 @@
         "scenariomip"
     ],
     "@context": {
-        "@alt_base": "https://wcrp-cmip.github.io/CMIP7-CVs/activity/",
+        "@alt_base": "https://glevava.github.io/CMIP7_CVs/activity/",
         "@base": "https://no-prefix.mipcvs.dev/activity/",
         "@vocab": "https://no-prefix.mipcvs.dev/docs/contents/Activity/",
         "activity": {
@@ -28,7 +28,8 @@
     "@type": [
         "wcrp:activity",
         "esgvoc:Activity",
-        "cmip7"
+        "cmip7",
+        "undefined"
     ],
     "@id": "activity"
 }
